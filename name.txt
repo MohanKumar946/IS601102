@@ -12,11 +12,11 @@ Add your name below :
 10.Danny Wang => Resolved Merge conflict
 11.Owens Rivera
 12.Huong Nguyen
-13.
-14. Sai Vinay Chandra Sekhar
-15.
-16.
-17.
+13.Tanay Yadav => Resolved Merge conflict
+14.Anvesh Bandari
+15.Devaun Armstrong
+16.Saketh Naga Durga Lella  => Resolved Merge conflict
+17.Sai Vinay Chandra Sekhar
 18.
 19.
 20.
