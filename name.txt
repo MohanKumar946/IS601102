@@ -12,9 +12,9 @@ Add your name below :
 10.Danny Wang => Resolved Merge conflict
 11.Owens Rivera
 12.Huong Nguyen
-13.Devaun Armstrong
-14.
-15.
+13.Tanay Yadav => Resolved Merge conflict
+14.Anvesh Bandari
+15.Devaun Armstrong
 16.
 17.
 18.
